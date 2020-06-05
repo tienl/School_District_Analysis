@@ -22,3 +22,6 @@ Thomas High School's spending is not affected, nor is school size and type.  How
 While the Math and Reading scores by grade on overall data is affected very little, it lowered the school spending type between $630-644 per student on passing, which is the spending range that Thomas school is in.  
 It also lower the same metrics, % passing and overall passing, more notably in the medium school size (1000-2000).  
 Finally, it also affected the same metrics more notably for Charter schools.  The actual values can be extracted by the jupyter notebook in python result/output.
+
+One of the graphs we can produce
+ ![graph](beforeandafter.jpg)
