@@ -1,4 +1,7 @@
 # School_District_Analysis
+
+In this repository I demonstrated skills using python and jupyter notebook to perform data analysis of mock scenario to analysis school district data.  
+
 ✓ How is the district summary affected?
 
 The district summary is affected by a small amount where avg math scores went from 78.98 to 78.93, and avg reading scores went from 81.87 to 81.85, and the 3 metrics of Percentages of passing all dropped about 1%
