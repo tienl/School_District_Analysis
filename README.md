@@ -1,6 +1,6 @@
 # School_District_Analysis
 
-In this repository I demonstrated skills using python and jupyter notebook to perform data analysis of mock scenario to analysis school district data.  
+In this repository I demonstrated skills using python, pandas and jupyter notebook to perform data analysis of mock scenario to analysis school district data.  
 
 ✓ How is the district summary affected?
 
